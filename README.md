@@ -18,7 +18,7 @@ LSQ+ [LSQ+: Improving low-bit quantization through learnable offsets and better 
 
 
 ## commit log<br>
-20230108, upload dorefa、pact and lsq_v3<br>
+2023-01-08, upload dorefa、pact and lsq_v3<br>
 
 I'm not the author, I just complish an unofficial implementation of dorefa and pact.<br>
 
