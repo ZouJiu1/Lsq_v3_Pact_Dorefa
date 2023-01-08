@@ -1,4 +1,4 @@
-## lsq_v3、Dorefa、Pact<br>
+## lsq_v3、Pact、Dorefa<br>
 [DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients](https://arxiv.org/abs/1606.06160) <br>
 [PACT: Parameterized Clipping Activation for Quantized Neural Networks](https://arxiv.org/abs/1805.06085)<br>
 
